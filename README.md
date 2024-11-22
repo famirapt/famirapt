@@ -12,20 +12,24 @@ To excel as a Cybersecurity Analyst by leveraging my skills in cybersecurity to 
 
 🧰 Tools
 
-Network
-<div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /> 
+Operating Systems
+<div> <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Linux&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" /> 
+<img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" /> 
 </div>
 
-Endpoint
-<div> <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /> 
+Network and Penetration Testing Tools
+<div> <img src="https://img.shields.io/badge/-Nmap-378CCC?&style=for-the-badge&logo=Nmap&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Burp_Suite-FF6819?&style=for-the-badge&logo=BurpSuite&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Metasploit-4C4C4C?&style=for-the-badge&logo=Metasploit&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Medusa-000000?&style=for-the-badge&logoColor=white" /> 
 </div>
 
-SIEM
-<div> <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> </div>
+Command Line Interfaces
+<div> <img src="https://img.shields.io/badge/-Terminal-000000?&style=for-the-badge&logo=GNOMETerminal&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Command_Line-0078D4?&style=for-the-badge&logo=PowerShell&logoColor=white" /> 
+</div>
+
 
 📜 Certifications
 <div> <img src="https://img.shields.io/badge/-EC--Council_Certified-006400?&style=for-the-badge&logoColor=white" /> 
